@@ -1,1 +1,2 @@
 This is first file where i am making on desktop github and pushing on github repository
+nice it has push to github now it will be pull on desktop github
